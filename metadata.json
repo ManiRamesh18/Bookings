@@ -1,0 +1,6 @@
+{
+  "name": "XChange Bookings",
+  "description": "Bus & Train Seat Booking Comparison App allowing users to find best tickets across providers like IRCTC, RedBus, and MakeMyTrip.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
